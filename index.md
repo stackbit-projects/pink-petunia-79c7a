@@ -5,6 +5,8 @@ date: '2020-11-20'
 ---
 ## Hi, I'm Mengtong Hu
 
-Dumbarton is a Jekyll Theme developed by <a href="https://github.com/tcbutler320"> Tyler Butler </a>. The theme is designed for academics and features a simple home page with an about me section and an interactive highlights section to describe publications, coursework, courses taught, and projects. You can checkout the project on [Github](https://github.com/tcbutler320/Jekyll-Theme-Dumbarton), feel free to make contributions and feature requests and don't forget to give it a star.
+I'm Mengtong. I am a second year Biostatistics PhD student at University of Michigan, Ann Arbor. I  graduated in 2019 with highest honor from Emory University in Applied Mathematics& Statistics. I also completed a secondary major in Neuroscience & Behavioral Biology. My primary research interest is in the health data science.
 
-<a href="/about.html" class="highlighted">Read More</a>
+\<a href="/about.html" class="highlighted">
+
+Read More
